@@ -9,5 +9,5 @@
     "icons": {
         "128": "images.png"
     },
-    "permissions": ["activeTab"]
+    "permissions": ["activeTab"}
 }
